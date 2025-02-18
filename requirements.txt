@@ -3,3 +3,4 @@ colorama
 multiprocessing
 argparse
 scapy
+tqdm
